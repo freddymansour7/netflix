@@ -14,7 +14,7 @@ except:	os.system('pip2 install requests')
 
 try:
 	os.system('clear')
-	print '''%s
+	print ('''%s) 
    _  __    __  ______
   / |/ /__ / /_/ _/ (_)_ __    %sCoded by D4RKSH4D0WS%s
  /    / -_) __/ _/ / /\ \ /    %sNetflix Account Checker%s
